@@ -1,0 +1,131 @@
+body {
+		background: #284b7a;
+		font: 115% Times New, serif;
+		color: #263ba9;
+		margin: 0px;
+		padding: 0px;
+}
+#container {
+	background: #5783ab;
+	margin: 10px auto;
+	width: 770px;
+	border: 2px solid #000000;
+	color: #FFFFFF;
+}
+header {
+	background-image:url('../images/gamesbanner.gif'); 
+    background-repeat:no-repeat;
+	height:110px;
+}
+#brawlhallaheading {
+	background-image:url('../images/brawlhallabanner.png'); 
+    background-repeat:no-repeat;
+	height:110px;
+}
+#minecraftheading {
+	background-image:url('../images/minecraftbanner.png'); 
+    background-repeat:no-repeat;
+	height:110px;
+}
+#tosheading {
+	background-image:url('../images/tosbanner.png'); 
+    background-repeat:no-repeat;
+	height:110px;
+}
+#heavehoheading {
+	background-image:url('../images/heavehobanner.png'); 
+    background-repeat:no-repeat;
+	height:110px;
+}
+#centerimage {
+	background: #5783ab;
+	margin: 10px auto;
+	width: 770px;
+	color: #FFFFFF;
+	text-align: center;
+}
+nav {
+	border-bottom: 2px solid #000000;
+}
+nav ul {
+	background: #5783ab;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+nav ul li {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li a {
+	border 1px solid #284b7a;
+	color: #FFFFFF;
+	background: #284b7a;
+	text-decoration: none;
+	padding: 0px 20px;
+	border-right: 1px solid #000000;
+}
+nav ul li a:hover {
+	background: #3d4c9d;
+}
+li.selected a{
+	background: #0c0f4f;
+	font-weight: bold;
+}
+article p {
+	font-size: 100%;
+	margin: 20px;
+	color: 263ba9;
+}
+footer p {
+	font-size: 100%;
+	margin: 20px;
+	color: 263ba9;
+	text-align: center;
+}
+.centerimage {
+	margin-left: auto;
+	margin-right: auto;
+	float: center;
+	width: 50%;
+	border: 1px solid #000000;
+}
+hr { 
+  height: 2px;
+  color: #000000;
+  background-color: #000000;
+  border: none;
+}
+article h1 {
+	font-size: 170;
+	color: #263ba9;
+	margin: 20px;
+	padding: 0px;
+}
+article h2 {
+	font-size: 170;
+	color: #263ba9;
+	margin: 20px;
+	padding: 0px;
+}
+.rightimage {
+	float: right;
+	margin-left: 15px;
+	border: 1px solid #000000;
+}
+article green {
+	font-size: 100%;
+	color: #26d126;
+}
+article blue {
+	font-size: 100%;
+	color: #1f3ab5;
+}
+article red {
+	font-size: 100%;
+	color: #db1414;
+}
+article grey {
+	font-size: 100%;
+	color: #c2c0c0;
